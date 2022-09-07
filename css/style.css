@@ -1,0 +1,21 @@
+
+body {
+    width: 1000px;
+    margin: auto;
+
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+
+#picturesHere {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+#bigPicture {
+    font-size: 18pt;
+    text-align: center;
+
+} 
